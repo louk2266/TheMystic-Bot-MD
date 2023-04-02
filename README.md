@@ -35,7 +35,7 @@
   
 ### `—◉ 🌌 ACTIVAR EN REPLIT 🌌`
 
-[![Run on Repl.it](https://repl.it/badge/github/louk123/TheMystic-Bot-MD-20)](https://repl.it/github/louk123/TheMystic-Bot-MD-20) 
+[![Run on Repl.it](https://repl.it/badge/github/louk2266/TheMystic-Bot-MD-20)](https://repl.it/github/louk2266/TheMystic-Bot-MD-20) 
   
 ### `—◉ 🔰 ACTIVAR EN RENDER 🔰`
 
